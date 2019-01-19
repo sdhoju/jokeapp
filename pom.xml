@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.sfja.norris.chuck</groupId>
 	<artifactId>chuck-norris</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>chuck-norris</name>
 	<description>Demo for Spring Boot </description>
 
@@ -55,7 +55,7 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:sdhoju/jokeapp.git</developerConnection>
-    <tag>chuck-norris-0.0.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
 </project>
